@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Class-Path: junit-4.11.jar
-Main-Class: jmtp.PortableDeviceImplWin32
-

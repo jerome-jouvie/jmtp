@@ -1,6 +1,16 @@
 bin/
+bincpp/
+build/
+export/
+src/java-win32
+src/java-win64
 gen/
 out/
+c++/Release
+
+*.suo
+*.sdf
+*.vcxproj.user
 
 .idea
 
