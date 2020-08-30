@@ -9,7 +9,7 @@ For more information, please see the wiki.
 
 My blog: http://pieterderycke.wordpress.com/
 
-#### Fork used in http://bonzaireader.com
+#### Fork used in http://reader.bonzaiengine.com
 * Added 64 bit support
 * Added transfert functionalities (PortableDeviceTransfert replaces PortableDeviceToHostImpl32)
 * Cache JNI class and methods references in ClassAndMethods
